@@ -1,6 +1,6 @@
-# near-content
+# NEAR Content
 
-NEAR Content
+
 This is the place for NEAR Content request to be submitted by anyone. Content include:
 
 - Technical Tutorial
